@@ -1,5 +1,7 @@
 SLOT GAME
 
+GAME_RULE: A spin uses 3 symbols and pays x2 for three CHERRY.
+
 Symbols:
 - CHERRY
 - STAR
