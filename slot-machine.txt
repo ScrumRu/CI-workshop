@@ -1,0 +1,9 @@
+SLOT GAME
+
+Symbols:
+- CHERRY
+- STAR
+
+Payouts:
+- CHERRY CHERRY CHERRY = x2
+- STAR STAR STAR = x5
